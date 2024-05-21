@@ -217,6 +217,7 @@ namespace MitIdAuthenticatorApp
 
         async Task<string> GetToken(HttpClient client, int tries = 0)
         {
+            // this is a test token for a public test tool, it is not sensitive information.
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic",
                 "NnYzNHY2Y3pjZXhmZGY1dnljbGptdWU4NDVkNndkMDA6MDEwOEQwQTQ1MzlBNjdCOEJBOEM2Mjc5RjJFMTdDMDVDM0UwNDJDQ0Y0NjE1NjBGMUJGRUU4MDk2REM2RUQ1MQ==");
             var url = "https://pp.mitid.dk/mitid-administrative-idp/oauth/token?grant_type=client_credentials";

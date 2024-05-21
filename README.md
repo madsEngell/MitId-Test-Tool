@@ -36,7 +36,7 @@ The lines of the accompanying text document can be edited to change the order or
 
 ## Honorable Mentions
 
-This app is a fork of a console application first developed by Christian Mørup (cmo). 
+This app is a fork of a [console application](https://github.com/ChristianMorup/MitIdAutoAuthenticator) first developed by Christian Mørup (cmo). 
 
 ## Notes
 
