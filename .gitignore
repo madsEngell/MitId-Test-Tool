@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.userprefs
+*.suo
+*.sln.docstates.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio IntelliSense
+*.vscode/
+*.vs/
+*.sln.ide/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper
+_ReSharper*/
+*.resharper*
