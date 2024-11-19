@@ -1,5 +1,5 @@
 # MitID Authenticator 4000
-![MitIDlogo](\MitIdAuthenticatorApp\mitIdIconSquare.ico)
+![MitIDlogo](./MitIdAuthenticatorApp/mitIdIconSquare.ico)
 
 ## Use Case
 
